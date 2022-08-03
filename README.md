@@ -1,7 +1,8 @@
 
 ![banner](https://user-images.githubusercontent.com/54620294/182549916-3ac01794-f5fa-4532-946f-4cdad9102f2c.png)
 
-<p style={{ textAlign: center }}>I love developed with React and React Native 🚀. I am currently learning Swift and I did all of that from Bali in Indonesia 🌴</p>
+I like to develop with React and React Native, and I am currently learning Swift 🚀
+I did all of that from Bali in Indonesia 🌴
 
 [![Scream10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scream10&theme=dark)](https://github.com/Scream10/github-readme-stats)
 
