@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![banner](https://user-images.githubusercontent.com/54620294/182549916-3ac01794-f5fa-4532-946f-4cdad9102f2c.png)
 
 [![Scream10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scream10&theme=dark)](https://github.com/Scream10/github-readme-stats)
 
