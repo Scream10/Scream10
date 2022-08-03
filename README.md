@@ -3,7 +3,7 @@
 
 - 🔭 &nbsp;I’m currently working on a React Native project
 - 🌱 &nbsp;I’m currently learning Swift
-- 📫 &nbsp;How to reach me: [Nicolas Diot - LinkedIn](https://www.linkedin.com/in/nicolas-diot-96b0b313a)
+- 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/nicolas-diot-96b0b313a)
 - ⚡ &nbsp;I :heart: React and React Native
 - 🌴 &nbsp;I live in Bali, Indonesia
 
