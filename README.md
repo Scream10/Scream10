@@ -4,9 +4,9 @@
 - 🔭 &nbsp;I’m currently working on a React Native project
 - 🌱 &nbsp;I’m currently learning Swift
 - ⚡ &nbsp;I :heart: React and React Native
-- 🌴 &nbsp;I live in Bali, Indonesia<br />
+- 🌴 &nbsp;I live in Bali, Indonesia<br /><br />
 
-🔗 &nbsp;**Connect with me**<br />
+🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/nicolas-diot-96b0b313a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Scream10" height="30" width="40" /></a>
 </p><br />
