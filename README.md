@@ -1,8 +1,11 @@
 
-![banner](https://user-images.githubusercontent.com/54620294/182549916-3ac01794-f5fa-4532-946f-4cdad9102f2c.png)
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I like to develop with React and React Native, and I am currently learning Swift 🚀
-I did all of that from Bali in Indonesia 🌴
+- 🔭 &nbsp;I’m currently working on a React Native project
+- 🌱 &nbsp;I’m currently learning Swift
+- 📫 &nbsp;How to reach me: [Nicolas Diot - LinkedIn]([https://twitter.com/gautamkrishnar](https://www.linkedin.com/in/nicolas-diot-96b0b313a))
+- ⚡ &nbsp;I :heart: React and React Native
+- 🌴 &nbsp;I live in Bali, Indonesia
 
 [![Scream10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scream10&theme=dark)](https://github.com/Scream10/github-readme-stats)
 
