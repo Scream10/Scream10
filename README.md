@@ -13,6 +13,7 @@
 
 🛠️ &nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools<br /><br />
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br />
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [![Scream10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scream10&theme=dark)](https://github.com/Scream10/github-readme-stats)
 
