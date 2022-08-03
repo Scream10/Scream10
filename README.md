@@ -3,9 +3,13 @@
 
 - 🔭 &nbsp;I’m currently working on a React Native project
 - 🌱 &nbsp;I’m currently learning Swift
-- 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/nicolas-diot-96b0b313a)
 - ⚡ &nbsp;I :heart: React and React Native
 - 🌴 &nbsp;I live in Bali, Indonesia
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/nicolas-diot-96b0b313a" target="blank"><img align="center" src="https://raw.githubusercontent.com/Scream10/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+</p>
 
 [![Scream10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scream10&theme=dark)](https://github.com/Scream10/github-readme-stats)
 
