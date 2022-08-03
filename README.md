@@ -11,6 +11,9 @@
 <a href="https://www.linkedin.com/in/nicolas-diot-96b0b313a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Scream10" height="30" width="40" /></a>
 </p>
 
+<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+
+
 [![Scream10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scream10&theme=dark)](https://github.com/Scream10/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scream10&layout=compact)](https://github.com/Scream10/github-readme-stats)
