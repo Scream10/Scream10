@@ -38,6 +38,8 @@
 
 <br />
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 [![Scream10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scream10&theme=dark)](https://github.com/Scream10/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scream10&layout=compact)](https://github.com/Scream10/github-readme-stats)
