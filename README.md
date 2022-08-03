@@ -1,5 +1,5 @@
 
-### Hi there <a href="https://nicolasdiot.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there <a href="https://nicolasdiot.vercel.app/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 🔭 &nbsp;I’m currently working on a React Native project
 - 🌱 &nbsp;I’m currently learning Swift
