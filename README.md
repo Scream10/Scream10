@@ -4,15 +4,15 @@
 - 🔭 &nbsp;I’m currently working on a React Native project
 - 🌱 &nbsp;I’m currently learning Swift
 - ⚡ &nbsp;I :heart: React and React Native
-- 🌴 &nbsp;I live in Bali, Indonesia
+- 🌴 &nbsp;I live in Bali, Indonesia<br />
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Connect with me**<br />
 <p align="left">
 <a href="https://www.linkedin.com/in/nicolas-diot-96b0b313a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Scream10" height="30" width="40" /></a>
-</p>
+</p><br />
 
-🛠️ &nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools<br />
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+🛠️ &nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools<br /><br />
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br />
 
 [![Scream10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scream10&theme=dark)](https://github.com/Scream10/github-readme-stats)
 
