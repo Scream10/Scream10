@@ -1,17 +1,11 @@
 
 ![banner](https://user-images.githubusercontent.com/54620294/182549916-3ac01794-f5fa-4532-946f-4cdad9102f2c.png)
 
+<p style={{ textAlign: center }}>I love developed with React and React Native 🚀. I am currently learning Swift and I did all of that from Bali in Indonesia 🌴</p>
+
 [![Scream10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scream10&theme=dark)](https://github.com/Scream10/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scream10&layout=compact)](https://github.com/Scream10/github-readme-stats)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
 
 <!--
 **Scream10/Scream10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
