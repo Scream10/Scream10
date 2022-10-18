@@ -4,7 +4,7 @@
 - 🔭 &nbsp;I’m currently working on a React Native project
 - 🌱 &nbsp;I’m currently learning Swift
 - ⚡ &nbsp;I :heart: React and React Native
-- 🏝 &nbsp;I live in Bali, Indonesia<br /><br />
+- 🇫🇷 &nbsp;I live in France<br /><br />
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
