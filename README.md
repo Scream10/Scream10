@@ -1,7 +1,7 @@
 
 ### Hi there <a href="https://nicolasdiot.vercel.app/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🔭 &nbsp;I’m currently working on a React Native project
+- 🔭 &nbsp;I’m currently working on a React project
 - 🌱 &nbsp;I’m currently learning Hexagonale Architecture
 - ⚡ &nbsp;I :heart: React and React Native
 - 🇫🇷 &nbsp;I live in France<br /><br />
