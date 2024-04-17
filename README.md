@@ -1,8 +1,8 @@
 
 ### Hi there <a href="https://nicolasdiot.vercel.app/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🔭 &nbsp;I’m currently working on a my first SaaS
-- 🌱 &nbsp;I’m currently learning Hexagonale Architecture
+- 🔭 &nbsp;I’m currently working on a my second SaaS
+- 🌱 &nbsp;I’m currently developing my skills on TDD
 - ⚡ &nbsp;I :heart: React and React Native
 - 🇫🇷 &nbsp;I live in France<br /><br />
 
